@@ -10,3 +10,11 @@
 ```
 git remote add <repo_name> <repo_address>
 ```
+
+```C#
+int count = 0;
+while (count <= n)
+{
+    count++
+}
+```
